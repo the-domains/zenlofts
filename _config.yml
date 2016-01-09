@@ -1,0 +1,28 @@
+name: zenlofts
+favicon: null
+layout_spectrum: 0.9409405533224344
+typography_spectrum: 0.6807880771812052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.26735058706253767
+  lightness: 0.4625407352577895
+  saturation: 0.06198193202726543
+  rhythmicContrast: 0.7114678344223648
+purpose: []
